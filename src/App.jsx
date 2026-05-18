@@ -11,7 +11,7 @@ function ScrollToTop() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/cris-china">
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
