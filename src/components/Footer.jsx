@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <LogoLockup markSize={44} />
             <p className="text-secondary" style={{ fontSize: 14, lineHeight: 1.7, marginTop: 24, maxWidth: 360 }}>
-              大连润思科技有限公司 — 用友 BIP 独立方案供应商（ISV），以智能化排程与绿色低碳管理双引擎，助力中国高端制造业数智化转型。
+              大连润思科技有限公司 — 用友ISV合作伙伴，以智能化排程与绿色低碳管理双引擎，助力中国高端制造业数智化转型。
             </p>
             <div style={{ display: "flex", gap: 8, marginTop: 24, flexWrap: "wrap" }}>
               <span className="badge badge-gold"><span className="dot"></span>用友 BIP · ISV</span>

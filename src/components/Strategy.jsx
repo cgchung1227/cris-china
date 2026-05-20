@@ -7,7 +7,7 @@ export default function Strategy() {
         <div className="strategy-grid">
           <div className="strategy-cell featured">
             <div className="lbl">Strategic Partnership</div>
-            <div className="val">用友 BIP <span className="hi">独立方案供应商 ISV</span></div>
+            <div className="val">用友<span className="hi">ISV合作伙伴</span></div>
           </div>
           <div className="strategy-cell">
             <div className="lbl">Customer Footprint</div>

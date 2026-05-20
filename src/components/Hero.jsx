@@ -16,7 +16,7 @@ export default function Hero() {
               </span>
             </h1>
             <p className="hero-sub">
-              作为<span className="text-gold">用友 BIP 独立方案供应商（ISV）</span>，润思科技以 IMPACTs APS 智能排程与 CeO 碳管理系统为核心，
+              作为<span className="text-gold">用友ISV合作伙伴</span>，润思科技以 IMPACTs APS 智能排程与 CeO 碳管理系统为核心，
               已为半导体、医药、电子材料等高端制造业提供国际合规、数据驱动的双轴转型方案。
             </p>
             <div className="hero-cta">
