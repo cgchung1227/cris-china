@@ -20,7 +20,7 @@ export default function Footer() {
             <h4>解决方案</h4>
             <ul>
               <li><a href="#solutions">IMPACTs APS</a></li>
-              <li><a href="#solutions">CeO 碳管理</a></li>
+              <li><a href="#solutions">IMPACTs双碳管理系统</a></li>
               <li><a href="#industries">半导体与电子材料</a></li>
               <li><a href="#industries">医药与医疗器械</a></li>
             </ul>

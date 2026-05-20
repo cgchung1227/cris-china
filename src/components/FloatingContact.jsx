@@ -17,7 +17,7 @@ export default function FloatingContact() {
       {open && (
         <div className="wechat-panel">
           <h5 style={{ color: "var(--text-primary)" }}>扫码联系顾问</h5>
-          <p>微信咨询 IMPACTs APS / CeO ESG</p>
+          <p>微信咨询 IMPACTs APS / IMPACTs双碳管理系统</p>
           <div className="wechat-qr">
             <div className="qr-pattern"></div>
           </div>

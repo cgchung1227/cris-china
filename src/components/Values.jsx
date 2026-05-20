@@ -59,7 +59,7 @@ const data = [
   {
     to: 100, suffix: "%",
     title: "国际合规保障",
-    desc: "CeO 系统对接 ISO 14064 / 14067 / GHG Protocol，碳盘查与产品碳足迹直通 SGS 等国际机构审核。",
+    desc: "IMPACTs双碳管理系统对接 ISO 14064 / 14067 / GHG Protocol，碳盘查与产品碳足迹直通 SGS 等国际机构审核。",
     tags: ["ISO 14064", "ISO 14067", "SGS 审核"],
     gold: true,
   },

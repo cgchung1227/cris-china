@@ -41,7 +41,7 @@ export default function Products() {
           {/* CeO */}
           <div className="card product-card">
             <div className="ptype" style={{ color: "var(--accent-gold)" }}>APPLICATION · ESG</div>
-            <h3>CeO 碳管理系统</h3>
+            <h3>IMPACTs双碳管理系统</h3>
             <p className="pdesc">碳排放系数数据库 + 盘查报告书自动生成，能源 / 工序 / 产品三维碳画像。</p>
             <div className="pvisual">
               <div className="carbon-dash">

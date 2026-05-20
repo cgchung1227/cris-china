@@ -47,7 +47,7 @@ export default function Solutions() {
 
           {/* CeO Card */}
           <div className="card solution-card esg">
-            <div className="product-tag">02 / CeO ESG</div>
+            <div className="product-tag">02 / IMPACTs双碳</div>
             <h3>绿色低碳管理平台</h3>
             <div className="tagline">组织盘查 · 产品碳足迹 · 能源监控</div>
 
